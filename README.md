@@ -34,7 +34,9 @@ O objetivo principal deste projeto é ter uma primeira experiência desenvolvend
 aplicações web (WebApp) que interajam com o usuário através do navegador e
 desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
-Pense nos passos que o usuário tem que percorrer, repasse o fluxograma []() e se organize com sua dupla/trio.
+Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se organize com sua dupla/trio.
+
+![fluxograma do projeto](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/Fluxo%20prova%20Lab.png?token=AHWFOLW5L5DWMC2DP6STQF26IMGJE)
 
 ### HTML e CSS
 
@@ -67,6 +69,18 @@ Os critérios que você deverá considerar para saber se completou o projeto sã
 2. Mostrar uma tela na qual o usuário pode escolher se quer mesmo dar início a prova ou não. Caso ele não deseje iniciar, o fluxo deve ser encerrado. Caso ele queira, seguirá para a próxima etapa, descrita no item 3.
 3. Mostrar, através de prompt,  a pergunta 1 com alternativas. O usuário responde e depois é apresentada a pergunta 2 e depois a 3.
 4. Mostrar uma tela de resultados (respostas corretas e incorretas).
+
+Seguem exemplos de tela. Você pode usar as cores e fontes que quiser e acrescentar detalhes, porém os seguintes aspectos do leiaute modelo devem ser mantidos:
+- O nome da pessoa deve ser impresso na tela;
+- As respostas corretas e erradas devem ser impressas na tela em caixas separadas, exibidas lado a lado.
+
+![tela 1](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%201.png?token=AHWFOLTZCHLYM6YDMA2TFD26IMGZ4)
+
+![tela 2](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%202.png?token=AHWFOLX2LMNYKCJUTEPGNP26IMG5M)
+
+![tela 3](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%203.png?token=AHWFOLUAGV2ZMXHS5PTMRCS6IMG7A)
+
+![tela 4](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%204.png?token=AHWFOLX2GACMZ6FORFHWDMC6IMHAK)
 
 ### Entrega
 
