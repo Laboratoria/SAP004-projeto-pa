@@ -36,7 +36,7 @@ desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
 Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se organize com sua dupla/trio.
 
-![fluxograma do projeto](https://user-images.githubusercontent.com/39506102/74755567-20d75400-5252-11ea-8bb4-1b7735574a7b.png)
+![fluxograma do projeto](https://user-images.githubusercontent.com/39506102/74759497-a1e51a00-5257-11ea-8f3a-9c8edaa2201d.png)
 ### HTML e CSS
 
 * [ ] Entender e reconhecer a importância do HTML semântico.
