@@ -36,8 +36,7 @@ desenvolver a lógica, utilizando HTML, CSS e JavaScript como ferramentas.
 
 Pense nos passos que o usuário tem que percorrer, repasse o fluxograma e se organize com sua dupla/trio.
 
-![fluxograma do projeto](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/Fluxo%20prova%20Lab.png?token=AHWFOLUIEYYX4RDAQEIXYQC6IMH66)
-
+![fluxograma do projeto](https://user-images.githubusercontent.com/39506102/74755567-20d75400-5252-11ea-8bb4-1b7735574a7b.png)
 ### HTML e CSS
 
 * [ ] Entender e reconhecer a importância do HTML semântico.
@@ -74,13 +73,14 @@ Seguem exemplos de tela. Você pode usar as cores e fontes que quiser e acrescen
 - O nome da pessoa deve ser impresso na tela;
 - As respostas corretas e erradas devem ser impressas na tela em caixas separadas, exibidas lado a lado.
 
-![tela 1](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%201.png?token=AHWFOLWQ2H4FMXJWNGTF4326IMIBC)
+![tela 1](https://user-images.githubusercontent.com/39506102/74755660-3c425f00-5252-11ea-953d-2681aa3a9a17.png)
 
-![tela 2](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%202.png?token=AHWFOLUAYDWAZ3TKJOMSLIS6IMIEU)
+![tela 2](https://user-images.githubusercontent.com/39506102/74755700-47958a80-5252-11ea-8028-42540b43f8cd.png)
 
-![tela 3](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%203.png?token=AHWFOLTS5O6MNHT57W2IMMC6IMIGA)
+![tela 3](https://user-images.githubusercontent.com/39506102/74755741-58de9700-5252-11ea-8028-07457b24f16b.png)
 
-![tela 4](https://raw.githubusercontent.com/paclaraujo/SAP004-prova-online/master/imgs/prova%20-%204.png?token=AHWFOLTLKYG5FXBOEJZA2XC6IMIHS)
+
+![tela 4](https://user-images.githubusercontent.com/39506102/74755765-6267ff00-5252-11ea-892a-20e85d7fa099.png)
 
 ### Entrega
 
