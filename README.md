@@ -20,7 +20,7 @@
 Atualmente, com o aumento do uso de smartphones e computadores, suas aplicações e o acesso a Internet, ficou cada vez mais fácil fazer tudo online. Com uma
 rápida busca na Internet, você verá que existem aplicações capazes de realizar muitas das tarefas que realizamos com frequência.
 
-[Simulado Online DetranSP](https://user-images.githubusercontent.com/39506102/74267513-f1ba6300-4ce4-11ea-9296-6a2c85656df5.png)
+![Simulado Online DetranSP](https://user-images.githubusercontent.com/39506102/74267513-f1ba6300-4ce4-11ea-9296-6a2c85656df5.png)
 
 ## 2. Resumo do projeto
 
